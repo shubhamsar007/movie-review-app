@@ -1,4 +1,4 @@
-import MovieForm from "./components/Movieform.tsx"; // 
+import MovieForm from "./components/MovieForm"; // 
 
 function App() {
   return (
